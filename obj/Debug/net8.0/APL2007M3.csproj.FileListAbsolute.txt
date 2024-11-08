@@ -12,3 +12,4 @@ C:\workspace\estudo\Desafios\GitHubCopilot\APL2007M3\obj\Debug\net8.0\refint\APL
 C:\workspace\estudo\Desafios\GitHubCopilot\APL2007M3\obj\Debug\net8.0\APL2007M3.pdb
 C:\workspace\estudo\Desafios\GitHubCopilot\APL2007M3\obj\Debug\net8.0\APL2007M3.genruntimeconfig.cache
 C:\workspace\estudo\Desafios\GitHubCopilot\APL2007M3\obj\Debug\net8.0\ref\APL2007M3.dll
+C:\workspace\estudo\Desafios\GitHubCopilot\APL2007M3\obj\Debug\net8.0\APL2007M3.sourcelink.json
